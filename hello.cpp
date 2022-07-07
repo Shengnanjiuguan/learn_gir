@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello"<<endl;
+    cout<<"map"<<endl;
+
+    cout<<"1111";
     return 0;
 }
